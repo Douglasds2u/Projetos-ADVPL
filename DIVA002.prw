@@ -69,4 +69,4 @@ Static Function ViewDef()
     oView:AddField("VIEW_ZA2", oStruct, "ZA2MASTER")
     oView:CreateHorizontalBox("TELA", 100)
     oView:SetOwnerView("VIEW_ZA2", "TELA")
-Return oView
+Return oView 
